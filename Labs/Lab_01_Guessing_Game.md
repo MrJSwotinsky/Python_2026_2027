@@ -6,7 +6,7 @@ Due: October 23rd 2026
 * Prompt the user to guess the secret number, and
 * Let the user know whether they have won (guessed correctly) or lost (not guessed correctly).
 
-**Required File Name:** `LastNameFirstInitial_Lab_1_Guessing_Game.py`
+**Required File Name:** `LastNameFirstInitial_Lab_01_Guessing_Game.py`
 
 **Note:** Your program must have a robust, well-documented, version history.  Programs submitted without a robust, well-documented, version history will not be accepted.
 
