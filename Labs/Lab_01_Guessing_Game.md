@@ -1,5 +1,5 @@
 # Lab 1: Guessing Game
-Due: October 23rd 2026
+Due: Friday, October 23rd 2026
 
 ### Code a short guessing game program.  Your program should...
 * Determine a random secret number.
