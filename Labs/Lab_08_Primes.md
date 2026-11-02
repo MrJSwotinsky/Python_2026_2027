@@ -5,8 +5,9 @@ Due: Tuesday, November 3rd 2026
 
 **Hints:** 
 * Define the variable, `counter`, to keep track of the number of primes that have been displayed.  Assign it an initial value of `0`.
-* Use a while loop to display prime numbers until your counter variable has reached 10.
-* Refer back to your code from Lab 7: Prime Checker for help coding the inside of your while loop.
+* Define the variable, `n`, to iterate through the natural numbers and check whether or not each is prime.  `2` is the first prime number.  So, assign it an initial value of `2`.
+* Use a while loop to check for and display prime numbers until your counter variable has reached 10.
+* Refer back to your code from Lab 7: Prime Checker for help coding the body of your while loop.<br>**Note:** The code will be similar, but not identical.
 
 **Required File Name:** `LastNameFirstInitial_Lab_08_Primes.py`
 
